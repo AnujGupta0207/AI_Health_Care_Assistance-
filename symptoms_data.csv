@@ -1,0 +1,11 @@
+disease,symptoms
+common_cold,cough; sneezing; sore throat; runny nose; mild fever
+dengue,high fever; headache; joint pain; body pain; vomiting; rash
+covid,fever; dry cough; tiredness; loss of taste; loss of smell; difficulty breathing
+malaria,fever; chills; sweating; headache; nausea; vomiting
+migraine,headache; nausea; sensitivity to light; sensitivity to sound
+heart_attack,chest pain; shortness of breath; sweating; nausea; pain in left arm
+anemia,fatigue; weakness; pale skin; dizziness; shortness of breath
+gastritis,stomach pain; burning in stomach; nausea; bloating
+anxiety,restlessness; fast heartbeat; sweating; nervousness; difficulty sleeping
+depression,sadness; loss of interest; tiredness; sleep problems; hopelessness

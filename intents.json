@@ -1,0 +1,72 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hi!",
+        "Hello",
+        "Hey",
+        "Hey!",
+        "Hii",
+        "Hiii",
+        "Hye",
+        "Yo",
+        "What's up",
+        "Good morning",
+        "Good evening"
+      ],
+      "responses": [
+        "Hello! How can I help you?",
+        "Hi there, what can I do for you?",
+        "Hey! How may I assist you today?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "See you later",
+        "Goodbye",
+        "See ya",
+        "Talk to you later"
+      ],
+      "responses": [
+        "Goodbye!",
+        "Take care!",
+        "See you soon!"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "Thanks a lot",
+        "Thx"
+      ],
+      "responses": [
+        "You're welcome!",
+        "Happy to help!",
+        "Anytime!"
+      ]
+    },
+    {
+      "tag": "symptom_check",
+      "patterns": [
+        "I am not feeling well",
+        "I have some symptoms",
+        "I feel sick",
+        "Can you tell me what disease I have?",
+        "I want to check my health",
+        "I have health issues",
+        "I need medical help"
+      ],
+      "responses": [
+        "Please describe all your symptoms separated by commas. For example: fever, cough, headache.",
+        "Tell me all your symptoms in detail (e.g. chest pain, shortness of breath, sweating).",
+        "Okay, list your symptoms using commas (e.g. fever, body pain, vomiting)."
+      ]
+    }
+  ]
+}
